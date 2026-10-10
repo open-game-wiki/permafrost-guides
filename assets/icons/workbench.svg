@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
+  <defs>
+    <linearGradient id="benchWood" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#b45309"/>
+      <stop offset="100%" stop-color="#78350f"/>
+    </linearGradient>
+    <linearGradient id="benchTop" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#d97706"/>
+      <stop offset="100%" stop-color="#92400e"/>
+    </linearGradient>
+    <filter id="benchGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#38bdf8" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  <!-- Table Legs -->
+  <rect x="12" y="32" width="6" height="24" fill="url(#benchWood)" rx="1"/>
+  <rect x="46" y="32" width="6" height="24" fill="url(#benchWood)" rx="1"/>
+  <!-- Leg Cross Brace -->
+  <rect x="14" y="44" width="36" height="4" fill="#451a03" rx="1"/>
+  <!-- Heavy Tabletop Slab -->
+  <rect x="8" y="26" width="48" height="9" fill="url(#benchTop)" filter="url(#benchGlow)" stroke="#451a03" stroke-width="1.5" rx="2"/>
+  <!-- Vise / Clamp on Table Corner -->
+  <rect x="10" y="16" width="6" height="10" fill="#475569" stroke="#1e293b" stroke-width="1"/>
+  <rect x="8" y="18" width="10" height="3" fill="#64748b"/>
+  <!-- Hammer on Tabletop -->
+  <line x1="38" y1="16" x2="48" y2="24" stroke="#92400e" stroke-width="3" stroke-linecap="round"/>
+  <rect x="44" y="14" width="8" height="5" fill="#64748b" rx="1" transform="rotate(35 48 16)"/>
+</svg>

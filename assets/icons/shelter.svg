@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
+  <defs>
+    <linearGradient id="roofGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7"/>
+      <stop offset="60%" stop-color="#0369a1"/>
+      <stop offset="100%" stop-color="#0c4a6e"/>
+    </linearGradient>
+    <linearGradient id="cabinGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#78350f"/>
+      <stop offset="100%" stop-color="#451a03"/>
+    </linearGradient>
+    <filter id="shelterGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#38bdf8" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+  <!-- Cabin Walls -->
+  <rect x="14" y="28" width="36" height="28" fill="url(#cabinGrad)" stroke="#291102" stroke-width="1.5" rx="1"/>
+  <!-- Wall Timber Horizontal Chinks -->
+  <line x1="14" y1="36" x2="50" y2="36" stroke="#291102" stroke-width="1"/>
+  <line x1="14" y1="44" x2="50" y2="44" stroke="#291102" stroke-width="1"/>
+  <line x1="14" y1="52" x2="50" y2="52" stroke="#291102" stroke-width="1"/>
+  <!-- Doorway -->
+  <rect x="26" y="38" width="12" height="18" fill="#1e1b4b" stroke="#0f172a" stroke-width="1.5"/>
+  <circle cx="36" cy="48" r="1" fill="#f59e0b"/>
+  <!-- Insulated A-Frame Roof (Snow-capped) -->
+  <polygon points="32,8 8,28 56,28" fill="url(#roofGrad)" filter="url(#shelterGlow)" stroke="#0c4a6e" stroke-width="2"/>
+  <!-- Snow Cap On Ridge -->
+  <polygon points="32,8 18,20 22,22 32,14 42,22 46,20" fill="#f0f9ff"/>
+</svg>

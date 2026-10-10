@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cogGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#94a3b8"/>
+      <stop offset="50%" stop-color="#64748b"/>
+      <stop offset="100%" stop-color="#334155"/>
+    </linearGradient>
+    <filter id="scrapGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#10b981" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+  <!-- Mechanical Cog Wheel -->
+  <g filter="url(#scrapGlow)">
+    <path d="M28 8 L36 8 L37 14 C39 15 41 16 43 17 L48 13 L54 19 L50 24 C51 26 52 28 53 30 L59 31 L59 39 L53 40 C52 42 51 44 50 46 L54 51 L48 57 L43 53 C41 54 39 55 37 56 L36 62 L28 62 L27 56 C25 55 23 54 21 53 L16 57 L10 51 L14 46 C13 44 12 42 11 40 L5 39 L5 31 L11 30 C12 28 13 26 14 24 L10 19 L16 13 L21 17 C23 16 25 15 27 14 Z" fill="url(#cogGrad)" stroke="#1e293b" stroke-width="1.5"/>
+    <!-- Center Hole -->
+    <circle cx="32" cy="35" r="9" fill="#0f172a" stroke="#1e293b" stroke-width="2"/>
+    <circle cx="32" cy="35" r="4" fill="#64748b"/>
+  </g>
+</svg>
