@@ -1,65 +1,33 @@
 ---
-title: "Weapons & Combat Guide: How to Get a Gun in Permafrost"
-description: "Complete firearm unlocking guide for Permafrost on Steam. Solar Farm Parking Zoo quest walkthrough, IZG 9mm vs SG9 pistol comparison, and ammo crafting recipes."
+title: "Weapons and Combat: Checking Unlocks and Equipment"
+description: "An evidence-aware reference for weapon acquisition, ammunition, and combat observations."
 category: "Weapons & Combat"
-badge: "VERIFIED IN-GAME DATA • EA 2026"
-readingTime: "7 min read"
+badge: "SOURCE-CHECKED OVERVIEW • EARLY ACCESS"
+readingTime: "2 min read"
 publishDate: "2026-10-09"
+updatedDate: "2026-10-13"
 icon: "pistol"
 lang: "en"
 ---
 
-While the Crude Bow and Spear serve you well against passive wildlife, defending against territorial timberwolves, ravenous snow bears, and armed Moon Clan marauders demands firearm superiority.
+## Official context
 
-In *Permafrost*, firearms cannot be casually looted in the opening forest. This guide outlines the exact, verified methods to acquire and craft your first gun.
+The official description includes hunting, faction-controlled areas, and violence against humans and animals. It does not supply a weapon-stat table or a step-by-step first-gun unlock route.
 
----
+## Before crafting or comparing weapons — editorial advice
 
-## 1. The Three Methods to Obtain a Gun
+Read the current item description and any lock message. Record the exact weapon and ammunition names, required materials, and workstation shown by the interface. Keep world loot, quest rewards, and craftable equipment separate when documenting how an item was acquired.
 
-### Method 1: The Main Storyline (Most Reliable)
-This is the intended progression route:
-1. Complete the starting shelter quests ("A New Beginning" and "Feel the Heat").
-2. Advance through the **House Camp** outpost storyline.
-3. Travel south towards the vast **Solar Farm** complex.
-4. Speak with the radio dispatcher to initiate the **"Parking Zoo"** quest.
-5. Starting this quest unlocks the **Weapon Bench** schematic in your building menu.
+For combat comparisons, record the build, target, range, condition, and any modifiers. A damage number from one encounter is not enough to establish a universal weapon value or ranking.
 
-### Method 2: Looting Enemy Raider Drops
-Human bandit patrols frequently raid the outskirts of the House Camp settlement. Defeated human marauders have a ~15% chance to drop a worn **IZG Pistol** or spare loose 9mm ammunition.
+## Details awaiting evidence
 
-### Method 3: Blueprint Level 9 (The SG9)
-Accumulating experience unlocks higher tiers in your Blueprint menu. Reaching **Character Level 9** allows you to spend Blueprint Points to unlock the **SG9 Machine Pistol**.
+Specific quest chains, gun-drop probabilities, damage and magazine values, ammunition recipes, and cold-weather durability effects still need supporting evidence.
 
----
+Until current-build screenshots or repeatable tests are available, this page does not recommend a specific weapon as best, or promise that a particular route unlocks it.
 
-## 2. In-Game Firearm Comparison
+## Sources and review date
 
-| Weapon Name | Weapon Type | Damage per Shot | Mag Capacity | Primary Advantage | Required Crafting Ingredients |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Crude Bow** | Primitive Hunting | 35 (Headshot 80) | 1 Arrow | Silent; reusable ammo; stealth hunting | 2x Wood, 1x Rope |
-| **IZG Pistol** | Semi-Auto Handgun | 48 | 8 rounds | High per-shot stopping power; common parts | 4x Weapon Materials, 6x Scrap, 2x Components |
-| **SG9 Pistol** | Automatic Machine Pistol | 32 | 15 rounds | Rapid burst fire; clears close-quarters packs | 6x Iron Ingots, 4x Components, 2x Springs |
-| **GB-11 Rifle** | Military Assault Rifle | 65 | 30 rounds | Long-range penetration against armored Moon Clan | World drop only (Military Outposts & Bunkers) |
+- [Steam — Permafrost](https://store.steampowered.com/app/2254990/Permafrost/)
 
----
-
-## 3. Crafting Ammunition & Gunpowder
-
-A gun without ammunition is a blunt club. Once your Weapon Bench is constructed:
-
-### 1. Gunpowder Recipe
-* **Ingredients:** 2x Charcoal + 1x Sulfur Powder (or Scrap Chemicals)
-* Produced at the Chemistry Table or Weapon Bench Mortar.
-
-### 2. 9x19mm Ammunition (Box of 10)
-* **Ingredients:** 2x Scrap Metal + 2x Gunpowder + 1x Copper Ingot
-* Conserved for dangerous expeditions and predator emergencies.
-
----
-
-## 4. Tactical Combat Tips
-
-* **Conserve Bullets for Apex Predators:** Do not waste 9mm ammunition on snow hares or deer. Use the Crude Bow for food gathering. Save firearms for hostile humans and bears.
-* **Winter Jamming Risk:** Firing repeatedly in deep blizzard conditions degrades gun durability 30% faster. Carry **Gun Oil** (crafted from animal fat and kerosene) to clean your firearm at camp.
-* **Dog Distraction:** Order your dog companion to "Bark" (`G` Whistle menu). Enemies will focus fire on the companion, giving you clean flanking sightlines for precision headshots.
+Reviewed: 2026-10-13. Official descriptions are distinguished from editorial suggestions; unmeasured mechanics are identified above.

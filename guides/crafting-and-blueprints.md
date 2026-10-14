@@ -1,77 +1,61 @@
 ---
-title: "Crafting Progression & Blueprint Unlocks: The Complete Tech Tree"
-description: "Master the crafting system in Permafrost. Workstation progression, blueprint point spending, smelting in the Stone Furnace, and quest-exclusive workbenches."
+title: "Crafting & Blueprint Guide: Unlock Trees & World Recipes"
+description: "How recipe unlocks work in Permafrost: Blueprint Points, Quest milestone recipes, and finding physical World Recipes across the frozen map."
 category: "Crafting & Gear"
-badge: "VERIFIED IN-GAME DATA • EA 2026"
-readingTime: "6 min read"
+badge: "COMMUNITY-TESTED GUIDE • EARLY ACCESS"
+readingTime: "3 min read"
 publishDate: "2026-10-09"
+updatedDate: "2026-10-14"
 icon: "workbench"
 lang: "en"
 ---
 
-The crafting system in *Permafrost* is structured around tech tiers and workstation specialization. You cannot craft complex machinery or refined ammunition directly from your pockets. 
+## The Three Unlock Channels in Permafrost
 
-Understanding how to unlock new schematics through **Blueprint Points**, **Quest Milestones**, and **World Exploration** is crucial to advancing from primitive stone tools to semi-automatic firearms.
+Crafting in *Permafrost* does not unlock all at once. New items and workstations are divided into three distinct progression channels:
+
+### 1. Blueprint Points (Character Leveling)
+* **How to Access**: Press `U` on your keyboard (or open the character menu) to view the Blueprint Tree.
+* **How to Earn**: Every level gained through gathering, hunting, building, and surviving extreme cold grants Blueprint Points.
+* **What it Unlocks**: Foundational survival tools, early building pieces (walls, foundations, roofs), simple storage crates, and primitive campfires.
+
+### 2. Quest Milestone Recipes (Story Progression)
+* **How to Access**: Automatically rewarded upon turning in designated NPC quests.
+* **Key Workstations Unlocked**:
+  * **Tailoring Bench**: Awarded via settlement crafting tasks (essential for warm furs and dog saddles).
+  * **Weapon Bench / Forge**: Unlocked after military bunker and outpost exploration missions.
+
+### 3. World Recipes (Physical Scavenged Notes)
+* **How to Access**: Physical blueprints and recipe notes scattered inside abandoned gas stations, cabins, and bunker shelves.
+* **How to Learn**: Approach the physical paper note in the world and press `F` to permanently learn the recipe into your craftbook.
+* **What it Unlocks**: Advanced gear, high-grade ammunition, vehicle modifications, and specialized medical items.
 
 ---
 
-## 1. The Three Methods of Recipe Unlocks
+## Essential Early Game Recipes (First 2 Hours)
 
-| Unlock Method | How It Works | Notable Examples |
+Prioritize these basic recipes immediately upon starting:
+
+| Tool / Item | Required Ingredients | Purpose / Benefit |
 | :--- | :--- | :--- |
-| **Blueprint Points** | Earned by gaining character levels through survival tasks. Spent in the Blueprint Menu. | Rope, Advanced Storage Chest, SG9 Machine Pistol (Level 9) |
-| **Quest Milestones** | Automatically rewarded upon initiating or completing key story and faction quests. | **Tailoring Bench** (High Frequency), **Weapon Bench** (Parking Zoo), **Dismantle Bench** (House Camp) |
-| **World Blueprints** | Found inside locked safes, industrial filing cabinets, and military bunkers. | Heavy Reinforced Wall, Advanced Solar Collector, Tactical Scope |
+| **Stone Axe** | 2x Stone, 4x Wood | Primary lumber harvesting & basic melee |
+| **Stone Pickaxe** | 2x Stone, 2x Wood | Mining surface stone, coal & iron nodes |
+| **Crude Bow** | 2x Wood, 1x Rope | Ranged hunting without alerting predators |
+| **Wooden Arrows (x3)** | 1x Wood | Basic ammunition for hunting deer and wolves |
+| **Makeshift Bandage** | 2x Cloth | Stops bleeding status effect and heals companion |
+| **Simple Campfire** | 5x Stone, 5x Wood | Emergency thermal zone to reset freezing status |
 
 ---
 
-## 2. Workstation Progression Matrix
+## Crafting Tips & Pitfalls to Avoid
 
-Advancing your settlement requires crafting dedicated stations in this sequence:
-
-```
-[Hand Crafting] 
-       │
-       ▼
-[Crafting Bench] ──► [Stone Furnace] ──► [Tanning Rack]
-       │                    │                  │
-       ▼                    ▼                  ▼
-[Dismantle Bench]   [Weapon Bench]     [Tailoring Bench]
-```
-
-### 1. Basic Crafting Bench
-* **Build Cost:** 10x Wood, 4x Small Stone, 2x Scrap Metal.
-* **Function:** Unlocks Flint tools, wooden shelter structural pieces, basic storage chests, and animal traps.
-
-### 2. Stone Furnace (Smelting Station)
-* **Build Cost:** 12x Stone, 6x Clay, 4x Flint.
-* **Function:** Smelts raw mined ores into ingots using Coal or Wood as combustion fuel:
-  * **Copper Ingot:** 3x Copper Ore + 5x Coal (or 8x Wood)
-  * **Iron Ingot:** 3x Iron Ore + 3x Coal
-  * **Charcoal:** 4x Wood burns into 2x Charcoal
-
-### 3. Tanning Rack
-* **Build Cost:** 8x Wood, 2x Rope, 4x Nails.
-* **Function:** Processes Raw Hides gathered from hunting into **Treated Leather** and **Cured Pelts**, which are vital ingredients for cold weather armor and dog gear.
-
-### 4. Tailoring Bench (Quest: High Frequency)
-* **Build Cost:** 8x Timber, 4x Metal Scraps, 2x Spools of Wire.
-* **Function:** Produces Tier 2 and Tier 3 insulated thermal garments (Fur Parka, Insulated Snow Pants, Thermal Gloves, Expandable Explorer Backpack).
-
-### 5. Dismantle Bench (Quest: House Camp)
-* **Build Cost:** 12x Wood, 6x Scrap Metal, 2x Mechanical Parts.
-* **Function:** Allows you to recycle broken radios, dead batteries, and junk engine parts into pure **Copper Wire**, **Screws**, and **High-Grade Components**.
-
-### 6. Weapon Bench (Quest: Parking Zoo at Solar Farm)
-* **Build Cost:** 15x Timber, 8x Iron Ingots, 4x Components, 2x Tool Kits.
-* **Function:** Crafts the **IZG 9mm Pistol**, 9x19mm Ammunition, Gunpowder, and weapon attachments.
+1. **Check Station Requirements First**: Don't carry heavy materials across the blizzard before checking whether the item requires an outdoor workbench or an indoor thermal bench.
+2. **Prioritize Insulation Gear**: As soon as you unlock the Tailoring Bench, craft the **Fur-Lined Parka** and **Insulated Boots** before venturing into high-altitude windchill zones.
+3. **Keep Spare Raw Materials at Base**: Always leave a reserve of wood and stone near your main storage so you can quickly rebuild after severe weather damage.
 
 ---
 
-## 3. High-Priority Early Blueprint Recommendations
+## Sources & Verification
 
-When spending your initial Blueprint Points, invest in this order:
-1. **Rope (Tier 1):** Unlocks hand-crafting of bows, traps, and tool handles.
-2. **Reinforced Wooden Chest (Tier 1):** Doubles storage space over primitive boxes.
-3. **Flint Pickaxe & Axe (Tier 2):** Speeds up gathering by 150% and enables copper mining.
-4. **Water Purifier Still (Tier 2):** Passively melts clean drinking water inside your base without burning fuel.
+- Verified against patch versions and player findings (October 14, 2026).
+- General baseline features verified with [Steam Store — Permafrost](https://store.steampowered.com/app/2254990/Permafrost/).

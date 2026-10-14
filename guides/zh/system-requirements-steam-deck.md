@@ -1,54 +1,43 @@
 ---
-title: "系统配置要求与 Steam Deck 优化：40帧画质参数与闪退排错"
-description: "《Permafrost》官方 PC 硬件配置要求、Steam Deck 40帧长续航画质设置，以及 Windows 智能应用控制启动闪退修复教程。"
+title: "官方 PC 配置与 Steam Deck 测试说明"
+description: "Steam 当前最低与推荐配置，不包含未经实测的帧率或续航承诺。"
 category: "技术支持"
-badge: "实机验证数据 • EA 2026"
-readingTime: "5 分钟阅读"
+badge: "来源核对说明 • 抢先体验"
+readingTime: "约 2 分钟"
 publishDate: "2026-10-09"
+updatedDate: "2026-10-13"
 icon: "compass"
 lang: "zh"
 ---
 
-《Permafrost》采用虚幻引擎打造，拥有极其逼真的体积积雪形变、狂暴风雪粒子以及严寒天气模拟系统。为了在遭遇狼群撕咬和强盗枪击时拥有流畅的响应帧率，合理配置硬件参数至关重要。
+## 官方 PC 系统需求
 
-本文提供官方实测 PC 硬件需求对照、Steam Deck 掌机 40 帧长续航调优方案，以及针对 Windows 闪退报错的解决方法。
+下表转录自 2026 年 10 月 13 日核对的 Steam 官方页面。两档均要求 64 位处理器和操作系统。
 
----
-
-## 一、 官方 PC 硬件配置对照表
-
-| 硬件维度指标 | 最低配置需求（1080p 30 帧） | 官方推荐配置（1080p 60 帧高画质） |
+| 部件 | 最低配置 | 推荐配置 |
 | :--- | :--- | :--- |
-| **操作系统** | Windows 10 (64 位) | Windows 11 (64 位) |
-| **中央处理器（CPU）** | Intel Core i5-6600K / AMD Ryzen 5 1600 | Intel Core i7-9700K / AMD Ryzen 7 3700X |
-| **运行内存（RAM）** | 16 GB RAM | 16 GB RAM (双通道高频) |
-| **独立显卡（GPU）** | NVIDIA GeForce GTX 1060 (6GB) / AMD RX 580 | NVIDIA GeForce RTX 2070 / AMD RX 6700 XT |
-| **DirectX 版本** | DirectX 12 支持 | DirectX 12 支持 |
-| **存储空间** | 35 GB 可用空间（**强烈要求固态硬盘 SSD**） | 35 GB 可用空间（高速 NVMe SSD） |
+| 系统 | Windows 10（x64） | Windows 10（x64） |
+| CPU | Intel Core i5-8600K / AMD Ryzen 5 3500 | Intel Core i5-12400 / AMD Ryzen 5 5600X |
+| 内存 | 16 GB | 16 GB |
+| 显卡 | Nvidia GTX 1060 6GB / AMD Radeon RX 590 8GB | Nvidia RTX 3070 Ti 8GB / AMD Radeon RX 6750 XT 12GB |
+| DirectX | 11 | 12 |
+| 存储 | 30 GB 可用空间 | 30 GB 可用空间 |
 
-> **关键提醒：** 严禁将游戏安装在传统老旧机械硬盘（HDD）中。机械硬盘在暴风雪天气下会导致严重贴图加载延迟与卡顿，**必须使用 SSD**。
+官方没有为这两档配置承诺具体分辨率或帧率，也没有写 SSD 为硬性要求。
 
----
+## Steam Deck：尚无实测配置方案
 
-## 二、 Steam Deck 掌机调优（40 帧平衡长续航档）
+本站尚未核实当前 Steam Deck 兼容性评级，也未完成可复现的性能测试。本文不承诺固定帧率预设、续航倍数或画质选项的性能收益。
 
-在 Valve Steam Deck 掌机上，推荐采用以下画质参数，可在兼顾画面清晰度的同时将续航延长近一倍：
+有价值的测试需记录 Deck 型号、SteamOS 与 Proton 版本、游戏版本、分辨率、画质、电源限制和测试场景；同时测试复杂和安静场景，报告卡顿与操作体验，而不只看平均帧率。这些是测试建议，不是运行效果承诺。
 
-* **分辨率：** 1280 x 800（原生 16:10）；
-* **帧率与刷新率限制：** 在 SteamOS 侧边栏开启 **40 Hz 刷新率 / 40 FPS 锁定**；
-* **超分辨率技术（FSR）：** 游戏内开启 AMD FSR 2.2，模式设定为 **质量（Quality）**；
-* **体积雾与暴风雪粒子：** 设定为 **低（Low）**。（*该单项改动可在恶劣暴风雪天气下节省约 22% 的 GPU 负载*）；
-* **阴影质量：** 中（Medium）；
-* **视野视距：** 中（Medium）；
-* **材质纹理：** 高（High）。
+## 启动问题
 
----
+先记录准确报错和版本，再选择处理办法。闪退或黑屏本身不能证明 Smart App Control 拦截了游戏。微软明确说明该功能无法为单个应用设置例外；此前加入排除列表的操作步骤无效。若出现明确安全警告，请保留提示并通过开发者官方支持入口求助。
 
-## 三、 Windows 智能应用控制导致启动闪退修复
+## 来源与核对日期
 
-部分 Windows 11 用户在 Steam 点击启动游戏后，游戏窗口可能闪烁一下后直接闪退或黑屏。这是由于 Windows Smart App Control 误拦截了多人联机模块的动态链接：
+- [Steam — Permafrost](https://store.steampowered.com/app/2254990/Permafrost/)
+- [Microsoft — Smart App Control FAQ](https://support.microsoft.com/en-gb/windows/security/threat-malware-protection/smart-app-control-frequently-asked-questions)
 
-1. 按下快捷键 `Win + S`，输入并打开 **Windows 安全中心**；
-2. 依次点击 **应用和浏览器控制** -> **智能应用控制（Smart App Control）**；
-3. 将位于 Steam 安装目录下的 `Permafrost.exe` 添加为**允许排除项**；
-4. 重启 Steam 即可正常秒进游戏。
+核对日期：2026-10-13。文中区分官方描述与编辑建议，尚未实测的机制已明确列出。

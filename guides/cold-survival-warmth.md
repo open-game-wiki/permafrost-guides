@@ -1,66 +1,33 @@
 ---
-title: "Cold Survival & Body Warmth Mechanics: Hypothermia Prevention Guide"
-description: "Detailed mechanics breakdown of thermal insulation, sub-zero cold zones, hypothermia stages, and heat generation systems in Permafrost."
+title: "Cold Survival: Confirmed Features and Preparation Notes"
+description: "What the official description confirms about cold, weather, shelter, and the limits of our current data."
 category: "Survival Basics"
-badge: "VERIFIED IN-GAME DATA • EA 2026"
-readingTime: "6 min read"
+badge: "SOURCE-CHECKED OVERVIEW • EARLY ACCESS"
+readingTime: "2 min read"
 publishDate: "2026-10-09"
+updatedDate: "2026-10-13"
 icon: "heater"
 lang: "en"
 ---
 
-In *Permafrost*, the cold is not merely a background aesthetic — it is the most lethal enemy in the game. More player deaths in the first 48 hours of Early Access occur due to **Hypothermia** than wolf attacks and bandit ambushes combined.
+## What is confirmed
 
-This guide explains how **Body Warmth** is calculated, how environmental temperature drops affect your character, and how to stay warm across every tech tier.
+The official description identifies cold, frostbite, storms, shelter, and preparation as central survival pressures. The Steam overview cited here does not list a warmth equation or clothing-insulation table.
 
----
+## Preparing for exposure — editorial advice
 
-## 1. How Body Warmth Is Calculated
+Before an expedition, inspect your character status, equipment descriptions, and available shelter options in the current build. During travel, compare status changes when exposed, sheltered, or near a heat source. Turn back if the on-screen warnings indicate that your equipment is insufficient.
 
-Your character has a dynamic thermal equilibrium determined by this balance:
+For a useful test, record the game build, location, weather, equipment, consumables, starting status, and elapsed time. Change one factor at a time. A screenshot from a different build is not enough to establish a universal temperature threshold.
 
-$$\text{Net Thermal Change} = (\text{Clothing Insulation} + \text{Local Heat Sources}) - (\text{Ambient Cold} + \text{Wind Chill Factor})$$
+## What is not yet measured
 
-* When Net Thermal Change is **positive**, your Body Warmth meter fills up to 100%.
-* When Net Thermal Change is **negative**, your Body Warmth drains at a speed proportional to the severity of the deficit.
+This site has not established warmth-loss rates, hypothermia stage thresholds, clothing tiers, heater radii, or drink durations. Numerical tables and consumable bonuses are withheld until that evidence is available.
 
-### Stages of Hypothermia
+The thermal-tool route now explains these limits and provides a preparation checklist. It does not predict survival time or guarantee that a loadout is safe.
 
-| Stage | Warmth Level | In-Game Symptoms | Gameplay Penalty |
-| :--- | :--- | :--- | :--- |
-| **Normal** | 50% – 100% | Steady breath, normal HUD | None |
-| **Shivering** | 20% – 49% | Audible teeth chattering, minor screen frost | Stamina regeneration slowed by 25% |
-| **Severe Chill** | 1% – 19% | Heavy frost vignettes on screen edge | Movement speed -20%, weapon sway increased |
-| **Hypothermia** | 0% | Red flashing HUD, heartbeat audio | **Rapid continuous health loss** (~3 HP per sec) |
+## Sources and review date
 
----
+- [Steam — Permafrost](https://store.steampowered.com/app/2254990/Permafrost/)
 
-## 2. Clothing Insulation Tiers
-
-Upgrading your gear at the **Tailoring Bench** (unlocked via the "High Frequency" questline) is mandatory to explore deep Cold Zones:
-
-| Gear Set | Materials Required | Thermal Rating | Safe Biome / Activity |
-| :--- | :--- | :--- | :--- |
-| **Rags / Starter Tunic** | Default starting gear | +5°C Protection | Temperate ruins only; daytime only |
-| **Cloth Wrap Set** | 8x Cloth, 4x Rope | +12°C Protection | Daytime exploration, short forest excursions |
-| **Fur Parka & Boots** | 6x Treated Hide, 4x Fur, 4x Thread | +25°C Protection | Night survival near camp, early mountain passes |
-| **Heavy Quilted Suit** | 12x Cloth, 6x Feather Down, 4x Leather | +38°C Protection | Prolonged blizzards, eastern industrial zone |
-| **Moon Clan Thermal Rig** | Moonrock fragments, synthetic fibers | +55°C Protection | Deep crater Cold Zones, perpetual vortex areas |
-
----
-
-## 3. Understanding Cold Zones
-
-The game map is divided into distinct thermal bands:
-1. **Lowlands & Valley Shelters (-5°C to -15°C):** Manageable with starter clothing during midday. Requires a basic campfire at night.
-2. **Alpine Passes & Frozen Lakes (-20°C to -35°C):** Requires at least Tier 2 Fur gear. Constant blizzards double warmth drain if exposed without windbreak.
-3. **High-Tier Cold Zones (-40°C to -60°C):** Distinct blue fog indicates extreme cold. Standing here with basic gear triggers instant warmth depletion in under 15 seconds. High-tier military loot and rare mineral deposits reside here.
-
----
-
-## 4. Heat Sources & Emergency Warming
-
-* **Campfire (2 Stone + 4 Wood):** Quick, portable, but vulnerable to blizzards if placed without wind cover.
-* **Indoor Hearth / Stone Furnace:** Placed inside a fully roofed base provides 360-degree passive heating throughout the building footprint.
-* **Makeshift Heater (House Camp Schematic):** Requires electrical components and fuel, but outputs maximum thermal radius for large bases.
-* **Hot Herbal Tea:** Brewed using dried mint or wild berries at a cooking pot. Drinking grants an instant **+20 Warmth Boost** and a 3-minute buff preventing cold drain. Always keep 2 flasks in your hotbar for remote scouting runs.
+Reviewed: 2026-10-13. Official descriptions are distinguished from editorial suggestions; unmeasured mechanics are identified above.

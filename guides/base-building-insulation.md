@@ -1,57 +1,33 @@
 ---
-title: "Base Building & Thermal Insulation: Shelter Construction Guide"
-description: "Master base building mechanics in Permafrost. Wall arrow alignment rules, thermal ceiling trapping, hearth heating, and bandit defense layout."
+title: "Shelters and Base Building: Confirmed Features and Checks"
+description: "Official shelter-restoration features and how to verify building and warmth behavior in-game."
 category: "Crafting & Gear"
-badge: "VERIFIED IN-GAME DATA • EA 2026"
-readingTime: "5 min read"
+badge: "SOURCE-CHECKED OVERVIEW • EARLY ACCESS"
+readingTime: "2 min read"
 publishDate: "2026-10-09"
+updatedDate: "2026-10-13"
 icon: "shelter"
 lang: "en"
 ---
 
-Constructing a fortified refuge in *Permafrost* is not just about keeping predators out — it is an active life-support system designed to insulate your character from fatal sub-zero weather.
+## Confirmed building features
 
-However, several unintuitive building mechanics can cause your indoor shelter to leak warmth if placed incorrectly. Here is what you need to know.
+The official description includes building a network of shelters, restoring abandoned shelter sites, and repairing machinery. Preparation and shelter matter in the cold environment.
 
----
+## Checking a shelter — editorial advice
 
-## 1. The Crucial "Arrow Alignment" Mechanic
+Use the placement preview and interaction prompts in your current build. After a change, observe whether the game displays a shelter or temperature effect. Compare otherwise similar conditions before attributing a benefit to a wall, roof, door, or heater.
 
-When placing foundations and walls, you will notice green directional arrows illuminated along the ghost preview mesh:
+For a test, record the complete structure, game build, weather, heat sources, and character status before and after changing one element. A visually closed room alone does not prove a particular game-engine rule.
 
-* **Rule:** **Structural arrows MUST always point OUTWARD away from your interior room.**
-* **Why this matters:**
-  1. The outer face of a wall has heavy thermal weatherproofing textures; placing it backward prevents the game engine from recognizing the room as "Insulated".
-  2. Door snap points will fail to align, preventing doors from swinging shut properly.
-  3. External raiders can dismantle inwardly-faced walls much faster using melee weapons.
+## Construction rules awaiting verification
 
----
+This site has not established wall-arrow orientation requirements, roof-completeness thresholds, indoor temperature bonuses, heat-source coverage radii, raid behavior, or enemy climbing restrictions.
 
-## 2. The 100% Thermal Enclosure Condition
+No layout here is guaranteed to prevent cold damage or enemy entry. Base your construction decisions on the current game's placement feedback and observed status changes.
 
-To benefit from the **"Indoors" buff** (+15°C ambient protection and zero wind chill), your shelter must satisfy the strict **Thermal Enclosure Check**:
+## Sources and review date
 
-1. **Continuous Foundation:** Timber or stone foundation perimeter.
-2. **Four Solid Sides:** Continuous walls with closed doorway frames and an installed door.
-3. **Complete Roof Sealing:** Every square meter of foundation must have a matching flat ceiling or pitched roof tile directly above it.
+- [Steam — Permafrost](https://store.steampowered.com/app/2254990/Permafrost/)
 
-> **Warning:** If even a single roof corner tile is missing, the game treats the entire structure as "Exposed to Elements," completely nullifying your indoor warmth bonus!
-
----
-
-## 3. Heating Your Base Efficiently
-
-Once enclosed, place heat sources strategically:
-
-| Heat Source | Fuel Consumed | Thermal Coverage Radius | Best Use Case |
-| :--- | :--- | :--- | :--- |
-| **Basic Campfire** | Wood / Sticks | 2.5 meters (direct proximity) | Temporary day 1 shelter |
-| **Stone Hearth / Smelter** | Coal / Wood | 6 meters (covers small 3x3 cabin) | Mid-game permanent base |
-| **Makeshift Heater** | Fuel Cans / Electricity | **15 meters (whole compound)** | End-game multi-room stronghold |
-
----
-
-## 4. Defending Against Raids
-
-* **Elevated Foundations:** Build your base on slightly raised foundations with a single staircase entrance. Wolves cannot scale vertical foundation skirts.
-* **Double Air-lock Doors:** Construct a 1x1 vestibule at your front entrance. This prevents sudden heat loss when opening the door during a blizzard and stops bandits from rushing straight into your bed quarters.
+Reviewed: 2026-10-13. Official descriptions are distinguished from editorial suggestions; unmeasured mechanics are identified above.

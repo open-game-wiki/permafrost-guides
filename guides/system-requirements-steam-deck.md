@@ -1,54 +1,43 @@
 ---
-title: "System Requirements & Steam Deck Optimization Guide"
-description: "PC hardware requirements, optimal Steam Deck settings for 40 FPS, and how to fix the Windows Smart App Control launch crash in Permafrost."
+title: "Official PC Requirements and Steam Deck Testing Notes"
+description: "Current Steam minimum and recommended specifications, without untested FPS or battery promises."
 category: "Technical"
-badge: "VERIFIED IN-GAME DATA • EA 2026"
-readingTime: "5 min read"
+badge: "SOURCE-CHECKED OVERVIEW • EARLY ACCESS"
+readingTime: "2 min read"
 publishDate: "2026-10-09"
+updatedDate: "2026-10-13"
 icon: "compass"
 lang: "en"
 ---
 
-*Permafrost* is rendered in Unreal Engine with dynamic volumetric snow, blizzard weather cycles, and sub-zero particle effects. Ensuring smooth performance is vital when dodging wolf ambushes.
+## Official PC system requirements
 
-This guide provides official hardware specifications, recommended Steam Deck settings, and fixes for known Early Access startup glitches.
+The following specifications are transcribed from the official Steam page checked on October 13, 2026. Both tiers require a 64-bit processor and operating system.
 
----
-
-## 1. Official PC System Requirements
-
-| Specification | Minimum Requirements (1080p 30 FPS) | Recommended Requirements (1080p 60 FPS) |
+| Component | Minimum | Recommended |
 | :--- | :--- | :--- |
-| **Operating System** | Windows 10 (64-bit) | Windows 11 (64-bit) |
-| **Processor (CPU)** | Intel Core i5-6600K / AMD Ryzen 5 1600 | Intel Core i7-9700K / AMD Ryzen 7 3700X |
-| **Memory (RAM)** | 16 GB RAM | 16 GB RAM (Dual Channel) |
-| **Graphics (GPU)** | NVIDIA GeForce GTX 1060 (6GB) / AMD RX 580 | NVIDIA GeForce RTX 2070 / AMD RX 6700 XT |
-| **DirectX Version** | Version 12 (DirectX 12 Agility SDK) | Version 12 |
-| **Storage** | 35 GB available space (**SSD strongly required**) | 35 GB available space (NVMe SSD) |
+| OS | Windows 10 (x64) | Windows 10 (x64) |
+| CPU | Intel Core i5-8600K / AMD Ryzen 5 3500 | Intel Core i5-12400 / AMD Ryzen 5 5600X |
+| RAM | 16 GB | 16 GB |
+| GPU | Nvidia GTX 1060 6GB / AMD Radeon RX 590 8GB | Nvidia RTX 3070 Ti 8GB / AMD Radeon RX 6750 XT 12GB |
+| DirectX | 11 | 12 |
+| Storage | 30 GB available space | 30 GB available space |
 
-> **Crucial Hardware Note:** Installing the game on a traditional mechanical Hard Disk Drive (HDD) causes severe texture pop-in during blizzards and prolonged loading screens. An **SSD is mandatory**.
+The listing does not attach a resolution or frame-rate guarantee to these tiers, or say that an SSD is mandatory.
 
----
+## Steam Deck: no measured profile yet
 
-## 2. Optimal Steam Deck Settings (Solid 40 FPS Profile)
+This site has not verified a current Steam Deck compatibility rating or completed a reproducible performance test. No fixed-frame-rate preset, battery multiplier, or graphics-performance percentage is promised here.
 
-*Permafrost* runs smoothly on Valve's Steam Deck handheld with these fine-tuned graphical presets:
+For a useful report, record the Deck model, SteamOS and Proton versions, game build, resolution, graphics settings, power limit, and test scene. Measure a demanding scene as well as a quiet area; report stutter and controls as well as average frame rate. These are testing suggestions, not a supported-performance claim.
 
-* **Resolution:** 1280 x 800 (Native 16:10)
-* **Refresh Rate & Frame Limit:** Set SteamOS to **40 Hz / 40 FPS limit** (delivers double battery longevity compared to 60 FPS).
-* **Upscaling (FSR):** AMD FSR 2.2 set to **Quality**.
-* **Volumetric Fog & Snow Particles:** Set to **Low**. *(This single setting saves ~22% GPU overhead during heavy blizzards).*
-* **Shadow Quality:** Medium.
-* **View Distance:** Medium.
-* **Texture Quality:** High.
+## Startup errors
 
----
+Record the exact error and build before choosing a fix. A crash or black screen alone is not evidence of Smart App Control blocking the game. Microsoft says Smart App Control cannot make an exception for an individual app; the previous exclusion-list instructions were invalid. If an explicit security warning appears, use the developer's official support links and preserve the message.
 
-## 3. Fixing the "Windows Smart App Control" Launch Error
+## Sources and review date
 
-Some Windows 11 users report that launching *Permafrost* results in an instant crash or a blank black screen. This occurs because Windows Smart App Control mistakenly flags the peer-to-peer multiplayer component:
+- [Steam — Permafrost](https://store.steampowered.com/app/2254990/Permafrost/)
+- [Microsoft — Smart App Control FAQ](https://support.microsoft.com/en-gb/windows/security/threat-malware-protection/smart-app-control-frequently-asked-questions)
 
-1. Press `Win + S` and search for **Windows Security**.
-2. Navigate to **App & browser control** -> **Smart App Control**.
-3. Under *Exclusions*, add `Permafrost.exe` located within your Steam installation folder (`steamapps/common/Permafrost`).
-4. Restart Steam and launch again.
+Reviewed: 2026-10-13. Official descriptions are distinguished from editorial suggestions; unmeasured mechanics are identified above.
