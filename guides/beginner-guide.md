@@ -35,3 +35,7 @@ We do not yet have reproducible evidence for the opening recipe costs, exact que
 - [Steam — Permafrost](https://store.steampowered.com/app/2254990/Permafrost/)
 
 Reviewed: 2026-10-13. Official descriptions are distinguished from editorial suggestions; unmeasured mechanics are identified above.
+
+## New source note — 2026-10-15
+
+See the [new progression guide](/guides/prologue-walkthrough/) for media-reported checkpoints, source dates and build limitations. This addition does not imply that the earlier material was newly playtested.

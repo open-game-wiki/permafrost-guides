@@ -35,3 +35,7 @@ Permafrost 于 2026 年 10 月 9 日在 Steam 开启抢先体验，目前仍处�
 - [Steam — Permafrost](https://store.steampowered.com/app/2254990/Permafrost/)
 
 核对日期：2026-10-13。文中区分官方描述与编辑建议，尚未实测的机制已明确列出。
+
+## 2026-10-15 新增来源说明
+
+参见[新增流程攻略](/zh/guides/prologue-walkthrough/)，其中注明媒体记录、来源日期与构建号限制。新增链接不代表旧内容已经重新实测。

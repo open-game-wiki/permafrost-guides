@@ -1,49 +1,41 @@
-# Permafrost Survival: Open Strategy Guides & Walkthrough Knowledge Base
+# Permafrost Wiki — Early Access references
 
-[![Website](https://img.shields.io/badge/Live_Hub-permafrost--wiki.online-38bdf8?style=for-the-badge&logo=google-chrome&logoColor=black)](https://permafrost-wiki.online/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-0284c7?style=for-the-badge)](LICENSE)
-[![Steam AppID](https://img.shields.io/badge/Steam_AppID-2254990-1b2838?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/2254990/Permafrost/)
-[![Guides](https://img.shields.io/badge/Open_Guides-10_Dual--Language_Topics-10b981?style=for-the-badge)](./guides/)
+Unofficial English and Chinese references for Permafrost by SpaceRocket Games and Toplitz Productions.
 
-> **Welcome to the open-source community walkthrough and strategy knowledge base for *Permafrost* (SpaceRocket Games / Toplitz Productions).**  
-> This repository is dedicated to maintaining high-accuracy, freely accessible game documentation, crafting tables, and survival workflows in Markdown.
+Source review: **2026-10-13**. This is a content-review date, not a playtest date.
 
-- 🌐 **Production Web Application & Interactive Tools**: [https://permafrost-wiki.online/](https://permafrost-wiki.online/)
-- 🇨🇳 **中文镜像站点与在线计算器**: [https://permafrost-wiki.online/zh/](https://permafrost-wiki.online/zh/)
+- Steam lists an Early Access release on **2026-10-09** and solo / up-to-four-player online co-op.
+- Official facts link to their source. Practical checklists are editorial advice.
+- Exact recipes, quest routes, character bonuses, item statistics, and thermal formulas without reproducible evidence are not published as established data.
+- The thermal calculator URL remains available as a cold-preparation and tool-status page; it no longer predicts survival times.
+- Site imagery is retained for illustration. Individual provenance and capture builds are not yet documented; it is not labeled as verified gameplay evidence.
 
----
+## Sources
 
-## 📚 Open-Source Strategy Guides (Markdown Directory)
+- [Official Steam page](https://store.steampowered.com/app/2254990/Permafrost/)
+- [Microsoft Smart App Control FAQ](https://support.microsoft.com/en-gb/windows/security/threat-malware-protection/smart-app-control-frequently-asked-questions)
 
-All tutorials and walkthroughs are open-source and maintained directly in this repository. Click any topic below to read the Markdown guide directly on GitHub, or access the corresponding real-time interactive tools on the live website:
+## Site and content
 
-| System / Guide Topic | English Markdown Guide | 中文 Markdown 攻略 | Live Web Companion |
-| :--- | :--- | :--- | :--- |
-| **First 60 Minutes Roadmap** | [beginner-guide.md](./guides/beginner-guide.md) | [新手前60分钟指引](./guides/zh/beginner-guide.md) | [Live Beginner Hub](https://permafrost-wiki.online/guides/beginner-guide) |
-| **Body Warmth & Hypothermia** | [cold-survival-warmth.md](./guides/cold-survival-warmth.md) | [体温机制与防寒服](./guides/zh/cold-survival-warmth.md) | [Interactive Thermal Calculator](https://permafrost-wiki.online/tools/thermal-calculator) |
-| **Dog Companion & Bone Cave** | [dog-companion-quest.md](./guides/dog-companion-quest.md) | [狗同伴招募与狗哨](./guides/zh/dog-companion-quest.md) | [Live Dog Companion Hub](https://permafrost-wiki.online/dog-companion) |
-| **Crafting & Blueprint Trees** | [crafting-and-blueprints.md](./guides/crafting-and-blueprints.md) | [合成科技树与蓝图](./guides/zh/crafting-and-blueprints.md) | [Searchable Recipe Database](https://permafrost-wiki.online/crafting) |
-| **How to Get a Gun & Combat** | [weapons-and-combat.md](./guides/weapons-and-combat.md) | [枪械获取与武器台](./guides/zh/weapons-and-combat.md) | [Live Weapons & Gun Hub](https://permafrost-wiki.online/weapons) |
-| **Mining Tiers & Smelting** | [materials-and-mining.md](./guides/materials-and-mining.md) | [五阶采矿镐与石炉](./guides/zh/materials-and-mining.md) | [Live Materials Guide](https://permafrost-wiki.online/materials) |
-| **Specializations & Builds** | [specializations-and-backgrounds.md](./guides/specializations-and-backgrounds.md) | [职业特化与开局背景](./guides/zh/specializations-and-backgrounds.md) | [Character Builder](https://permafrost-wiki.online/specializations) |
-| **4-Player Co-op & Server Host** | [co-op-multiplayer.md](./guides/co-op-multiplayer.md) | [四人联机与连接修复](./guides/zh/co-op-multiplayer.md) | [Co-op Multiplayer Hub](https://permafrost-wiki.online/coop) |
-| **Base Building & Insulation** | [base-building-insulation.md](./guides/base-building-insulation.md) | [庇护所建造与防风保温](./guides/zh/base-building-insulation.md) | [Building Guide](https://permafrost-wiki.online/guides/base-building-insulation) |
-| **System Requirements & Steam Deck** | [system-requirements-steam-deck.md](./guides/system-requirements-steam-deck.md) | [配置需求与Steam Deck](./guides/zh/system-requirements-steam-deck.md) | [Deck Settings Hub](https://permafrost-wiki.online/guides/system-requirements-steam-deck) |
+The existing English and `/zh/` routes cover getting started, cold, shelters, crafting, materials, weapons, companions, progression, co-op, controls, PC requirements, and media.
 
----
+This public Markdown collection mirrors the website source. Guides are stored under `guides/` and `guides/zh/`. Each article records publication and source-review dates separately.
 
-## 🤝 Contributing to Game Guides
+## Contributing evidence
 
-Found a typo, an outdated ingredient procurement cost, or a balance change after an Early Access patch? Community contributions are warmly welcomed:
+Include the game build, a source link or reproducible test, and relevant screenshots. Separate official descriptions, observations, and advice; do not infer specific statistics from promotional imagery. Update both language versions and the public Markdown mirror.
 
-1. Fork this repository: `https://github.com/open-game-wiki/permafrost-guides`
-2. Create your fix branch: `git checkout -b fix/flint-pickaxe-recipe`
-3. Edit the relevant Markdown file in `./guides/` (and `./guides/zh/` if applicable).
-4. Commit your changes: `git commit -m "fix(crafting): update flint pickaxe durability after EA Hotfix"`
-5. Push to your branch and open a Pull Request.
+This is an unofficial reference. Game and media rights remain with their respective owners.
 
----
+## Topic index
 
-## ⚖️ Legal & Fair Use Disclaimer
-
-This repository is an **unofficial, community-driven knowledge base** and is not affiliated with, endorsed by, or sponsored by SpaceRocket Games or Toplitz Productions. All trademarks, game logos, and character designs remain the exclusive property of their respective owners under Fair Use educational/informational provisions.
+- [Shelters and Base Building: Confirmed Features and Checks](guides/base-building-insulation.md) · [中文](guides/zh/base-building-insulation.md)
+- [Permafrost Beginner Guide: Getting Started in Early Access](guides/beginner-guide.md) · [中文](guides/zh/beginner-guide.md)
+- [Co-op Multiplayer: Confirmed Player Count and Connection Checks](guides/co-op-multiplayer.md) · [中文](guides/zh/co-op-multiplayer.md)
+- [Cold Survival: Confirmed Features and Preparation Notes](guides/cold-survival-warmth.md) · [中文](guides/zh/cold-survival-warmth.md)
+- [Crafting and Blueprints: Reading the Current Game Interface](guides/crafting-and-blueprints.md) · [中文](guides/zh/crafting-and-blueprints.md)
+- [Dog Companion: Confirmed Abilities and Recruitment Notes](guides/dog-companion-quest.md) · [中文](guides/zh/dog-companion-quest.md)
+- [Materials and Resource Gathering: What to Check](guides/materials-and-mining.md) · [中文](guides/zh/materials-and-mining.md)
+- [Rook, Progression, and Character Choices](guides/specializations-and-backgrounds.md) · [中文](guides/zh/specializations-and-backgrounds.md)
+- [Official PC Requirements and Steam Deck Testing Notes](guides/system-requirements-steam-deck.md) · [中文](guides/zh/system-requirements-steam-deck.md)
+- [Weapons and Combat: Checking Unlocks and Equipment](guides/weapons-and-combat.md) · [中文](guides/zh/weapons-and-combat.md)
