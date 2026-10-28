@@ -39,3 +39,8 @@ This is an unofficial reference. Game and media rights remain with their respect
 - [Rook, Progression, and Character Choices](guides/specializations-and-backgrounds.md) · [中文](guides/zh/specializations-and-backgrounds.md)
 - [Official PC Requirements and Steam Deck Testing Notes](guides/system-requirements-steam-deck.md) · [中文](guides/zh/system-requirements-steam-deck.md)
 - [Weapons and Combat: Checking Unlocks and Equipment](guides/weapons-and-combat.md) · [中文](guides/zh/weapons-and-combat.md)
+
+## October 28 guide updates / 10 月 28 日攻略更新
+
+- [Map Exploration Guide](https://permafrost-wiki.online/guides/map-exploration-guide/) · [中文](https://permafrost-wiki.online/zh/guides/map-exploration-guide/)
+- [Ps5 Xbox Platforms](https://permafrost-wiki.online/guides/ps5-xbox-platforms/) · [中文](https://permafrost-wiki.online/zh/guides/ps5-xbox-platforms/)
