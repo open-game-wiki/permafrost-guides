@@ -44,3 +44,11 @@ This is an unofficial reference. Game and media rights remain with their respect
 
 - [Map Exploration Guide](https://permafrost-wiki.online/guides/map-exploration-guide/) · [中文](https://permafrost-wiki.online/zh/guides/map-exploration-guide/)
 - [Ps5 Xbox Platforms](https://permafrost-wiki.online/guides/ps5-xbox-platforms/) · [中文](https://permafrost-wiki.online/zh/guides/ps5-xbox-platforms/)
+
+## Community questions reviewed · 2026-10-28 / 社区问题补充
+
+- [guides/co-op-multiplayer](guides/co-op-multiplayer.md) · [中文](guides/zh/co-op-multiplayer.md) · [Website](https://permafrost-wiki.online/guides/co-op-multiplayer/)
+- [guides/prologue-walkthrough](guides/prologue-walkthrough.md) · [中文](guides/zh/prologue-walkthrough.md) · [Website](https://permafrost-wiki.online/guides/prologue-walkthrough/)
+- [guides/quest-bugs-and-fixes](guides/quest-bugs-and-fixes.md) · [中文](guides/zh/quest-bugs-and-fixes.md) · [Website](https://permafrost-wiki.online/guides/quest-bugs-and-fixes/)
+- [guides/startup-crash-troubleshooting](guides/startup-crash-troubleshooting.md) · [中文](guides/zh/startup-crash-troubleshooting.md) · [Website](https://permafrost-wiki.online/guides/startup-crash-troubleshooting/)
+- [guides/system-requirements-steam-deck](guides/system-requirements-steam-deck.md) · [中文](guides/zh/system-requirements-steam-deck.md) · [Website](https://permafrost-wiki.online/guides/system-requirements-steam-deck/)

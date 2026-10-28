@@ -1,5 +1,5 @@
 ---
-title: "Permafrost Prologue: Shelter, Dog & Radio Progression"
+title: "Prologue: Shelter, Dog & Radio Progression"
 description: "Follow sourced opening checkpoints from the first shelter to radio progression, with Early Access version limits."
 category: "Survival Basics"
 badge: "PATCH NOTES CHECKED · 2026-10-28"
@@ -37,3 +37,6 @@ The October 21 developer update fixes The Lost Wife, The Way Home, Breaking the 
 If the same issue persists, install available updates, compare the exact objective and progress, and record whether you are host or guest before checking the pinned support posts. October 14 co-op advice cited by older guides is a historical workaround, not a permanent rule for the latest build.
 
 [Official patch entry](https://steamcommunity.com/app/2254990/announcements/), checked October 28, 2026. The opening route was not replayed; only these patch facts were rechecked. See [current controls](/controls/) for the quicksave note.
+
+## Focused troubleshooting
+See [quest-by-quest fix status](/guides/quest-bugs-and-fixes/), checked October 28, 2026. The historical specifications and source dates above are retained.

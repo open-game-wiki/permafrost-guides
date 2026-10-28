@@ -5,7 +5,7 @@ category: "技术支持"
 badge: "来源核对说明 • 抢先体验"
 readingTime: "约 2 分钟"
 publishDate: "2026-10-09"
-updatedDate: "2026-10-13"
+updatedDate: "2026-10-28"
 icon: "compass"
 lang: "zh"
 ---
@@ -41,3 +41,6 @@ lang: "zh"
 - [Microsoft — Smart App Control FAQ](https://support.microsoft.com/en-gb/windows/security/threat-malware-protection/smart-app-control-frequently-asked-questions)
 
 核对日期：2026-10-13。文中区分官方描述与编辑建议，尚未实测的机制已明确列出。
+
+## 进一步排查
+[启动崩溃排查](/zh/guides/startup-crash-troubleshooting/)：2026-10-28。

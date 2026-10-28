@@ -1,11 +1,11 @@
 ---
-title: "Official PC Requirements and Steam Deck Testing Notes"
+title: "PC Requirements & Steam Deck Testing Notes"
 description: "Current Steam minimum and recommended specifications, without untested FPS or battery promises."
 category: "Technical"
 badge: "SOURCE-CHECKED OVERVIEW • EARLY ACCESS"
 readingTime: "2 min read"
 publishDate: "2026-10-09"
-updatedDate: "2026-10-13"
+updatedDate: "2026-10-28"
 icon: "compass"
 lang: "en"
 ---
@@ -41,3 +41,6 @@ Record the exact error and build before choosing a fix. A crash or black screen 
 - [Microsoft — Smart App Control FAQ](https://support.microsoft.com/en-gb/windows/security/threat-malware-protection/smart-app-control-frequently-asked-questions)
 
 Reviewed: 2026-10-13. Official descriptions are distinguished from editorial suggestions; unmeasured mechanics are identified above.
+
+## Focused troubleshooting
+See [startup crash troubleshooting](/guides/startup-crash-troubleshooting/), checked October 28, 2026. The historical specifications and source dates above are retained.

@@ -1,5 +1,5 @@
 ---
-title: "Co-op Multiplayer: Confirmed Player Count and Connection Checks"
+title: "Co-op: Player Count & Connection Checks"
 description: "Official solo and four-player support, plus conservative troubleshooting and reporting advice."
 category: "Multiplayer"
 badge: "PATCH NOTES CHECKED · 2026-10-28"
@@ -42,3 +42,6 @@ The October 21 developer update fixes The Lost Wife, The Way Home, Breaking the 
 If the same issue persists, install available updates, compare the exact objective and progress, and record whether you are host or guest before checking the pinned support posts. October 14 co-op advice cited by older guides is a historical workaround, not a permanent rule for the latest build.
 
 [Official patch entry](https://steamcommunity.com/app/2254990/announcements/), checked October 28, 2026. The opening route was not replayed; only these patch facts were rechecked. See [current controls](/controls/) for the quicksave note.
+
+## Focused troubleshooting
+See [quest fix status](/guides/quest-bugs-and-fixes/), checked October 28, 2026. The historical specifications and source dates above are retained.
