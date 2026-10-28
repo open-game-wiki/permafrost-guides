@@ -2,12 +2,12 @@
 title: "Permafrost Prologue: Shelter, Dog & Radio Progression"
 description: "Follow sourced opening checkpoints from the first shelter to radio progression, with Early Access version limits."
 category: "Survival Basics"
-badge: "SOURCES REVIEWED · 2026-10-15"
+badge: "PATCH NOTES CHECKED · 2026-10-28"
 readingTime: "3 min read"
 publishDate: "2026-10-15"
 icon: "campfire"
 lang: "en"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-28"
 ---
 
 ## Applicable version
@@ -23,10 +23,17 @@ Reviewed **2026-10-15**. This route summarizes Saad Bin Asif's [October 12 prolo
 ## Avoid copying quantities blindly
 The source gives collection totals, but these should not be treated as per-item recipes. Its copper illustration caption also refers to iron. This page therefore supplies neither a mining coordinate nor a recipe table from that passage. Inspect your current crafting panel before gathering materials.
 
-## Co-op caveat — developer confirmation
-The [developer's known-issues post](https://steamcommunity.com/app/2254990/discussions/0/588440207635776246/), updated October 14, says guests can join after the host reaches the cabin, the world has one dog belonging to the host, and the host should perform main story and Skinwalker steps. These are current workaround notes, not permanent design guarantees.
+## Co-op caveat — October 14 developer note
+The [developer's known-issues post](https://steamcommunity.com/app/2254990/discussions/0/588440207635776246/), updated October 14, says guests can join after the host reaches the cabin, the world has one dog belonging to the host, and the host should perform main story and Skinwalker steps. These are historical workaround notes for that dated post; see the later-patch section below before applying them to a newer build.
 
 ## Sources and next steps
 - [Into Indie Games — Prologue](https://intoindiegames.com/walkthroughs/permafrost-prologue-walkthrough/), 2026-10-12: opening checkpoints. Build unspecified.
 - [Developer known issues](https://steamcommunity.com/app/2254990/discussions/0/588440207635776246/), updated 2026-10-14: co-op caveats. Checked 2026-10-15; no build number given.
 - Continue with [crafting and blueprint notes](/guides/crafting-and-blueprints/). If your journal differs, follow your installed version and record the discrepancy.
+
+## Later patches: check the build before repeating a workaround
+The October 21 developer update fixes The Lost Wife, The Way Home, Breaking the Radio Silence (including multiplayer completion and follow-up unlocks), Solar Fields progression, and Church Tower chest/Anna's Key issues. This does not establish that every co-op limitation is resolved or every old save will recover automatically.
+
+If the same issue persists, install available updates, compare the exact objective and progress, and record whether you are host or guest before checking the pinned support posts. October 14 co-op advice cited by older guides is a historical workaround, not a permanent rule for the latest build.
+
+[Official patch entry](https://steamcommunity.com/app/2254990/announcements/), checked October 28, 2026. The opening route was not replayed; only these patch facts were rechecked. See [current controls](/controls/) for the quicksave note.

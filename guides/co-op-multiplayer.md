@@ -2,10 +2,10 @@
 title: "Co-op Multiplayer: Confirmed Player Count and Connection Checks"
 description: "Official solo and four-player support, plus conservative troubleshooting and reporting advice."
 category: "Multiplayer"
-badge: "SOURCE-CHECKED OVERVIEW • EARLY ACCESS"
+badge: "PATCH NOTES CHECKED · 2026-10-28"
 readingTime: "2 min read"
 publishDate: "2026-10-09"
-updatedDate: "2026-10-13"
+updatedDate: "2026-10-28"
 icon: "coop"
 lang: "en"
 ---
@@ -35,3 +35,10 @@ If Windows explicitly blocks a file, preserve the exact message and contact the 
 - [Microsoft — Smart App Control FAQ](https://support.microsoft.com/en-gb/windows/security/threat-malware-protection/smart-app-control-frequently-asked-questions)
 
 Reviewed: 2026-10-13. Official descriptions are distinguished from editorial suggestions; unmeasured mechanics are identified above.
+
+## Later patches: check the build before repeating a workaround
+The October 21 developer update fixes The Lost Wife, The Way Home, Breaking the Radio Silence (including multiplayer completion and follow-up unlocks), Solar Fields progression, and Church Tower chest/Anna's Key issues. This does not establish that every co-op limitation is resolved or every old save will recover automatically.
+
+If the same issue persists, install available updates, compare the exact objective and progress, and record whether you are host or guest before checking the pinned support posts. October 14 co-op advice cited by older guides is a historical workaround, not a permanent rule for the latest build.
+
+[Official patch entry](https://steamcommunity.com/app/2254990/announcements/), checked October 28, 2026. The opening route was not replayed; only these patch facts were rechecked. See [current controls](/controls/) for the quicksave note.

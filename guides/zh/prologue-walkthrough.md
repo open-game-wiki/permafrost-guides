@@ -2,12 +2,12 @@
 title: "Permafrost 序章：庇护所、狗伙伴与电台流程"
 description: "按来源整理开局至电台的推进检查点，并注明抢先体验版本限制和联机注意事项。"
 category: "生存基础"
-badge: "来源复核 · 2026-10-15"
+badge: "补丁说明复核 · 2026-10-28"
 readingTime: "约 3 分钟"
 publishDate: "2026-10-15"
 icon: "campfire"
 lang: "zh"
-updatedDate: "2026-10-15"
+updatedDate: "2026-10-28"
 ---
 
 ## 适用版本
@@ -30,3 +30,10 @@ updatedDate: "2026-10-15"
 - [Into Indie Games — 序章](https://intoindiegames.com/walkthroughs/permafrost-prologue-walkthrough/)，2026-10-12：流程检查点，未注明构建号。
 - [开发者已知问题帖](https://steamcommunity.com/app/2254990/discussions/0/588440207635776246/)，更新于 2026-10-14：联机注意事项；2026-10-15 核验，未注明构建号。
 - 后续查看[制作与蓝图说明](/zh/guides/crafting-and-blueprints/)。任务日志不一致时，以安装版本为准并记录差异。
+
+## 后续补丁：卡任务时先核对版本
+10 月 21 日官方更新修复了 The Lost Wife、The Way Home、Breaking the Radio Silence、电台任务的多人完成与后续任务解锁，以及 Solar Fields 推进和 Church Tower 箱子／Anna's Key 的问题。不能据此推断所有合作流程限制都已解除，也不代表旧存档必然自动恢复。
+
+遇到相同问题时，先安装可用更新，再比较任务原文与当前进度，记录主机或客机身份后查看官方置顶问题帖。原先引用的 10 月 14 日联机建议是历史绕行说明，不应直接当成最新版本的永久规则。
+
+[官方补丁入口](https://steamcommunity.com/app/2254990/announcements/)，核验于 2026-10-28。开局路线没有重新实机验证；只有以上补丁事实进行了更新核对。[当前操作设置](/zh/controls/)另有快速保存说明。
